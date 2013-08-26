@@ -1,8 +1,8 @@
-### Project Euler
+# Project Euler
 
 Fortran solutions to https://projecteuler.net/
 
-### Benchmark
+# Benchmark
 
 **Machine**:
 
