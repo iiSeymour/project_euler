@@ -1,76 +1,76 @@
-Project Euler
-=============
+### Project Euler
 
 Fortran solutions to https://projecteuler.net/
 
-Benchmark
-=========
+### Benchmark
 
-CPU: Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz
-MEM: 6GB
+**Machine**:
 
-problem1
+    CPU: Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz
+    MEM: 6GB
 
-0m0.001s
-0m0.000s
-0m0.002s
+**problem1**
 
-problem2
+    0m0.001s
+    0m0.000s
+    0m0.002s
 
-0m0.001s
-0m0.000s
-0m0.000s
+**problem2**
 
-problem3
+    0m0.001s
+    0m0.000s
+    0m0.000s
 
-0m0.013s
-0m0.011s
-0m0.001s
+**problem3**
 
-problem4
+    0m0.013s
+    0m0.011s
+    0m0.001s
 
-0m0.001s
-0m0.002s
-0m0.000s
+**problem4**
 
-problem5
+    0m0.001s
+    0m0.002s
+    0m0.000s
 
-0m0.030s
-0m0.029s
-0m0.000s
+**problem5**
 
-problem6
+    0m0.030s
+    0m0.029s
+    0m0.000s
 
-0m0.001s
-0m0.000s
-0m0.000s
+**problem6**
 
-problem7
+    0m0.001s
+    0m0.000s
+    0m0.000s
 
-0m0.012s
-0m0.011s
-0m0.001s
+**problem7**
 
-problem8
+    0m0.012s
+    0m0.011s
+    0m0.001s
 
-0m0.001s
-0m0.000s
-0m0.000s
+**problem8**
 
-problem10
+    0m0.001s
+    0m0.000s
+    0m0.000s
 
-0m0.028s
-0m0.024s
-0m0.003s
+**problem10**
 
-problem12
+    0m0.028s
+    0m0.024s
+    0m0.003s
 
-0m0.141s
-0m0.139s
-0m0.001s
+**problem12**
 
-problem14
+    0m0.141s
+    0m0.139s
+    0m0.001s
 
-0m0.179s
-0m0.177s
-0m0.001s
+**problem14**
+
+    0m0.179s
+    0m0.177s
+    0m0.001s
