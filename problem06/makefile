@@ -1,6 +1,6 @@
 FC = nagfor
-FCFLAGS = -O4 -colour -s
-PROGRAMS = problem1
+FCFLAGS = -O4 -colour
+PROGRAMS = problem06
 
 all: $(PROGRAMS)
 

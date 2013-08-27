@@ -1,4 +1,4 @@
-program problem3
+program problem07
 
   ! https://projecteuler.net/problem=7
   ! What is the 10 001st prime number?

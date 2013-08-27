@@ -1,4 +1,4 @@
-program problem8
+program problem08
 
   ! https://projecteuler.net/problem=8
   ! Find the greatest product of five consecutive
