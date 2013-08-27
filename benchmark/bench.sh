@@ -2,7 +2,11 @@
 
 for problem in ../problem*; do
     run=$(basename $problem)
-    ${problem}/make
-    time ${problem}/${run}
-    ${problem}/make clean
+    cd ${problem}
+    echo
+    echo ${run}
+    make &> /dev/null
+    time ./${run} > /dev/null
+    make clean &> /dev/null
+    cd ../benchmark
 done
