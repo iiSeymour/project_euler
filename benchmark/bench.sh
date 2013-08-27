@@ -6,7 +6,7 @@ for problem in ../problem*; do
     echo
     echo ${run}
     make &> /dev/null
-    time ./${run} > /dev/null
+    time ./${run} > /dev/null 2>&1
     make clean &> /dev/null
     cd ../benchmark
 done
