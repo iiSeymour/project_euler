@@ -11,68 +11,74 @@ Solutions are not ideal but all find the correct answer in tenth of seconds at m
     CPU: Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz
     MEM: 6GB
 
-**problem1**
+**problem01**
 
-    0m0.001s
-    0m0.000s
-    0m0.002s
+    real	0m0.001s
+    user	0m0.000s
+    sys	    0m0.000s
 
-**problem2**
+**problem02**
 
-    0m0.001s
-    0m0.000s
-    0m0.000s
+    real	0m0.001s
+    user	0m0.000s
+    sys	0m0.000s
 
-**problem3**
+**problem03**
 
-    0m0.013s
-    0m0.011s
-    0m0.001s
+    real	0m0.016s
+    user	0m0.014s
+    sys 	0m0.002s
 
-**problem4**
+**problem04**
 
-    0m0.001s
-    0m0.002s
-    0m0.000s
+    real	0m0.001s
+    user	0m0.003s
+    sys 	0m0.000s
 
-**problem5**
+**problem05**
 
-    0m0.030s
-    0m0.029s
-    0m0.000s
+    real	0m0.029s
+    user	0m0.028s
+    sys 	0m0.000s
 
-**problem6**
+**problem06**
 
-    0m0.001s
-    0m0.000s
-    0m0.000s
+    real	0m0.001s
+    user	0m0.000s
+    sys 	0m0.000s
 
-**problem7**
+**problem07**
 
-    0m0.012s
-    0m0.011s
-    0m0.001s
+    real	0m0.016s
+    user	0m0.013s
+    sys 	0m0.003s
 
-**problem8**
+**problem08**
 
-    0m0.001s
-    0m0.000s
-    0m0.000s
+    real	0m0.001s
+    user	0m0.001s
+    sys 	0m0.000s
+
+**problem09**
+
+    real	0m0.001s
+    user	0m0.000s
+    sys 	0m0.000s
 
 **problem10**
 
-    0m0.028s
-    0m0.024s
-    0m0.003s
+    real	0m0.042s
+    user	0m0.036s
+    sys 	0m0.005s
 
 **problem12**
 
-    0m0.141s
-    0m0.139s
-    0m0.001s
+    real	0m0.138s
+    user	0m0.137s
+    sys 	0m0.000s
 
 **problem14**
 
-    0m0.179s
-    0m0.177s
-    0m0.001s
+    real	0m0.177s
+    user	0m0.177s
+    sys 	0m0.000s
