@@ -71,6 +71,12 @@ Solutions are not ideal but all find the correct answer in tenth of seconds at m
     user	0m0.036s
     sys 	0m0.005s
 
+**problem11**
+
+    0m0.001s
+    0m0.000s
+    0m0.000s
+
 **problem12**
 
     real	0m0.138s
