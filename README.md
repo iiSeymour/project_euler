@@ -2,7 +2,7 @@
 
 Fortran solutions to https://projecteuler.net/
 
-Solutions are not ideal but all find the correct answer in tenth of seconds at most.
+Solutions are not ideal but all find the correct answer in tenths of seconds at most.
 
 # Benchmark
 
